@@ -26,7 +26,7 @@ SECRET_KEY = '@hd(tq5z=)j#i=-ha2s)yn%l0rkz)q^xtir$lfoq87xp*vs@#v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.0.182','127.0.0.1','passworder','www.passworder.com']
+ALLOWED_HOSTS = ['127.0.0.1','0.0.0.0','www.passworder.com']
 
 
 # Application definition
