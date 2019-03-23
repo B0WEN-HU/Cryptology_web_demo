@@ -1,0 +1,3 @@
+from PW_dict.models import DICT
+var = DICT.objects.all()
+var.delete()
